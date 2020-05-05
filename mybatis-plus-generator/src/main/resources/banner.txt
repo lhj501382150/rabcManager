@@ -1,0 +1,22 @@
+      / \                       
+      | |                       
+      |.|                       
+      |.|                       
+      |:|      __               
+    ,_|:|_,   /  )              
+      (Oo    / _I_              
+       +\ \  || __|             
+          \ \||___|             
+            \ /.:.\-\           
+             |.:. /-----\       
+             |___|::oOo::|      
+             /   |:<_T_>:|      
+            |_____\ ::: /       
+             | |  \ \:/         
+             | |   | |          
+             \ /   | \___       
+             / |   \_____\      
+             `-'                
+服务版本:(V-${application.version}) 	   								
+模式:(${spring.profiles.active})                                    
+springboot版本 :${spring-boot.formatted-version}
